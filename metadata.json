@@ -1,0 +1,7 @@
+{
+  "name": "SentinAI Fraud Guard",
+  "description": "A high-performance machine learning-based credit card fraud detection system using Gemini for intelligent transaction analysis and risk assessment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
